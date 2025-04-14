@@ -1,6 +1,6 @@
 ![Mikilix JAVA Banner](https://github.com/Mikilix2006/JAVA/blob/main/assets/BannerJava.png)
 
-<table border="solid 15" align="center">
+<table border="5" align="center">
     <tr>
         <th>AÑO</th>
         <th>PROYECTOS</th>
