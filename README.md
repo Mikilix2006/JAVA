@@ -7,6 +7,6 @@
     </tr>
     <tr>
         <td rowspan=1>📂 · 2024-2025</td>
-        <td>📎 · <a href="https://github.com/Mikilix2006/JAVA/tree/main/2024-2025/Proyecto1">BlackKJack</a></td>
+        <td>📎 · <a href="https://github.com/Mikilix2006/JAVA/tree/main/2024-2025/Proyecto1">BlackJack</a></td>
     </tr>
 </table>
