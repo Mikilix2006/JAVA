@@ -10,6 +10,6 @@
         <td>📎 · <a href="https://github.com/Mikilix2006/JAVA/tree/main/2024-2025/BlackJack">BlackJack</a></td>
     </tr>
     <tr>
-        <td>📎 · <a href="https://github.com/Mikilix2006/JAVA/tree/main/2024-2025/Ajedrez">BlackJack</a></td>
+        <td>📎 · <a href="https://github.com/Mikilix2006/JAVA/tree/main/2024-2025/Ajedrez">Ajedrez</a></td>
     </tr>
 </table>
